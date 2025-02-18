@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/juan/mi-portafolio/.angular"
+		},
+		{
+			"path": "../../../Desktop/juan/mi-portafolio/.vscode"
+		},
+		{
+			"path": "../../../Desktop/juan/mi-portafolio/dist"
+		},
+		{
+			"path": "../../../Desktop/juan/mi-portafolio/node_modules"
+		},
+		{
+			"path": "../../../Desktop/juan/mi-portafolio/public"
+		},
+		{
+			"path": "../../../Desktop/juan/mi-portafolio/src"
+		}
+	],
+	"settings": {}
+}
